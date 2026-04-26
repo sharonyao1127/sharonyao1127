@@ -1,31 +1,49 @@
 # Hi, I'm Sharon 👋
 
-I'm a QA / Test Development Engineer focused on fintech payment quality, API automation, and AI-assisted quality engineering.
+I'm building AI-assisted quality engineering tools for API systems, fintech workflows, and LLM-powered QA processes.
 
-I care about turning complex business risks into reliable test systems, especially in payment reliability, risk-based testing, state consistency, idempotency, asynchronous callbacks, reconciliation, and regression quality gates.
-
-## What I'm Building
-
-- **AI Fintech QA Lab**: converts generic payment requirements and risk rules into test cases, quality reports, and executable API checks.
-- **Quality Gate Agent**: explores how code changes and API changes can be mapped to risk-based regression scope.
-- **LLM Eval for QA**: studies how to evaluate AI-generated test cases, QA workflows, and agent outputs.
-
-## Areas of Interest
-
-AI Quality Engineering · QA Automation · Fintech Payment Testing · API Testing · Risk-based Testing · CI/CD · LLM Evaluation · Remote Collaboration
-
-## Tech Stack
-
-Python · Pytest · FastAPI · OpenAPI · SQL · GitHub Actions · Docker · Playwright · LLM Evals
-
-## Current Focus
-
-- Building AI-assisted QA tools
-- Improving payment risk testing methodology
-- Practicing remote-friendly engineering workflows
-- Preparing for international / remote QA and test engineering opportunities
+My focus is turning testing experience into developer-friendly tools: change risk analysis, regression intelligence, eval workflows, PR quality gates, and automation platforms.
 
 ## Featured Projects
 
-- [AI Fintech QA Lab](https://github.com/sharonyao1127/ai-fintech-qa-lab): AI-assisted QA workflow for fintech payment systems, including risk-based test generation, mock API validation, and quality reports.
-- [Quality Gate Agent](https://github.com/sharonyao1127/quality-gate-agent): QA engineering prototype that maps code/API changes to risk scores, impacted areas, regression scope, and PR-ready quality gate comments.
+### [Quality Gate Agent](https://github.com/sharonyao1127/quality-gate-agent)
+
+A QA tooling prototype that maps git diffs, API changes, and OpenAPI change summaries to explainable risk scores, impacted areas, regression scope, eval results, and PR-ready quality gate comments.
+
+**Focus:** AI-assisted quality gates · change risk analysis · eval cases · CI workflows · developer productivity
+
+### [AI Fintech QA Lab](https://github.com/sharonyao1127/ai-fintech-qa-lab)
+
+An AI-assisted QA workflow for generic fintech payment systems, including risk-based test generation, mock API validation, quality reports, and reusable risk rules.
+
+**Focus:** API testing · risk-based automation · idempotency · async processing · quality reports
+
+### [QA Engineering Notes](https://github.com/sharonyao1127/qa-engineering-notes)
+
+Curated technical notes rewritten from earlier articles, covering test automation, API testing, CI, coverage, data-driven testing, and how traditional QA foundations evolve into AI-assisted quality workflows.
+
+**Focus:** technical writing · QA foundations · automation · CI · coverage · AI-assisted QA
+
+## What I'm Exploring
+
+- AI-assisted QA tooling and test generation
+- LLM evaluation for QA workflows and agent outputs
+- Change-aware quality gates for CI / code review
+- Risk-based automation for API and fintech-like systems
+- Lightweight full-stack QA platforms and internal tools
+
+## Areas of Interest
+
+AI Quality Engineering · QA Tooling · LLM Evaluation · API Systems · Risk-based Automation · CI Quality Gates · Developer Productivity · Full-stack QA Platforms
+
+## Tech Stack
+
+Python · Pytest · FastAPI · GitHub Actions · OpenAPI · YAML · SQL · Playwright · Docker · LLM Evals · Prompt Engineering · API Automation
+
+## Current Focus
+
+- Building AI-assisted QA tooling prototypes
+- Turning risk-based testing experience into reusable automation systems
+- Exploring eval-driven workflows for LLM-powered QA
+- Practicing remote-friendly engineering workflows
+- Preparing for international / remote QA, SDET, AI Quality, and QA Tooling roles
