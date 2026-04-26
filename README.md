@@ -1,40 +1,41 @@
 # Hi, I'm Sharon 👋
 
-I'm building AI-assisted quality engineering tools for API systems, fintech workflows, and LLM-powered QA processes.
+I'm building AI-powered engineering tools for automation, developer workflows, and quality intelligence.
 
-My focus is turning testing experience into developer-friendly tools: change risk analysis, regression intelligence, eval workflows, PR quality gates, and automation platforms.
+My work focuses on turning complex engineering context — requirements, API changes, code diffs, risk rules, and evaluation signals — into practical tools that help teams understand change impact, generate test assets, and make better release decisions.
 
 ## Featured Projects
 
 ### [Quality Gate Agent](https://github.com/sharonyao1127/quality-gate-agent)
 
-A QA tooling prototype that maps git diffs, API changes, and OpenAPI change summaries to explainable risk scores, impacted areas, regression scope, eval results, and PR-ready quality gate comments.
+An AI-assisted engineering tool that maps git diffs, API changes, and OpenAPI change summaries to explainable risk scores, impacted areas, regression scope, eval results, and PR-ready review comments.
 
-**Focus:** AI-assisted quality gates · change risk analysis · eval cases · CI workflows · developer productivity
+**Focus:** change intelligence · PR automation · risk scoring · eval cases · CI workflows · developer productivity
 
 ### [AI Fintech QA Lab](https://github.com/sharonyao1127/ai-fintech-qa-lab)
 
-An AI-assisted QA workflow for generic fintech payment systems, including risk-based test generation, mock API validation, quality reports, and reusable risk rules.
+A workflow prototype that converts generic fintech-style requirements and risk rules into test cases, API checks, quality reports, and reusable validation assets.
 
-**Focus:** API testing · risk-based automation · idempotency · async processing · quality reports
+**Focus:** API systems · risk-based automation · test generation · async processing · reliability checks
 
 ### [QA Engineering Notes](https://github.com/sharonyao1127/qa-engineering-notes)
 
-Curated technical notes rewritten from earlier articles, covering test automation, API testing, CI, coverage, data-driven testing, and how traditional QA foundations evolve into AI-assisted quality workflows.
+Curated technical notes rewritten from earlier articles, covering automation, API testing, CI, coverage, data-driven testing, and how traditional testing foundations evolve into AI-assisted engineering workflows.
 
-**Focus:** technical writing · QA foundations · automation · CI · coverage · AI-assisted QA
+**Focus:** technical writing · automation foundations · CI · coverage · quality engineering
 
 ## What I'm Exploring
 
-- AI-assisted QA tooling and test generation
-- LLM evaluation for QA workflows and agent outputs
-- Change-aware quality gates for CI / code review
-- Risk-based automation for API and fintech-like systems
-- Lightweight full-stack QA platforms and internal tools
+- AI-powered engineering tools
+- Developer productivity workflows
+- Change impact analysis
+- LLM evaluation for engineering outputs
+- PR quality gates and release intelligence
+- Lightweight full-stack internal tools
 
 ## Areas of Interest
 
-AI Quality Engineering · QA Tooling · LLM Evaluation · API Systems · Risk-based Automation · CI Quality Gates · Developer Productivity · Full-stack QA Platforms
+AI Tooling · Developer Productivity · LLM Evaluation · API Systems · Engineering Automation · CI Quality Gates · Change Intelligence · Full-stack Internal Tools
 
 ## Tech Stack
 
@@ -42,8 +43,8 @@ Python · Pytest · FastAPI · GitHub Actions · OpenAPI · YAML · SQL · Playw
 
 ## Current Focus
 
-- Building AI-assisted QA tooling prototypes
-- Turning risk-based testing experience into reusable automation systems
-- Exploring eval-driven workflows for LLM-powered QA
+- Building AI-assisted engineering tooling prototypes
+- Turning domain expertise into reusable automation systems
+- Exploring eval-driven workflows for LLM-powered engineering tools
 - Practicing remote-friendly engineering workflows
-- Preparing for international / remote QA, SDET, AI Quality, and QA Tooling roles
+- Preparing for international / remote roles in AI tooling, SDET, QA platform, and developer productivity engineering
