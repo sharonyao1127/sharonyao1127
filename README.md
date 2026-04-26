@@ -24,3 +24,8 @@ Python · Pytest · FastAPI · OpenAPI · SQL · GitHub Actions · Docker · Pla
 - Improving payment risk testing methodology
 - Practicing remote-friendly engineering workflows
 - Preparing for international / remote QA and test engineering opportunities
+
+## Featured Projects
+
+- [AI Fintech QA Lab](https://github.com/sharonyao1127/ai-fintech-qa-lab): AI-assisted QA workflow for fintech payment systems, including risk-based test generation, mock API validation, and quality reports.
+- [Quality Gate Agent](https://github.com/sharonyao1127/quality-gate-agent): QA engineering prototype that maps code/API changes to risk scores, impacted areas, regression scope, and PR-ready quality gate comments.
