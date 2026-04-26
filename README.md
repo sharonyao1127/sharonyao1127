@@ -1,26 +1,26 @@
 # Hi, I'm Sharon 👋
 
-I'm a QA / Test Development Engineer focused on Web3 payments, crypto cards, API automation, and AI-assisted quality engineering.
+I'm a QA / Test Development Engineer focused on fintech payment quality, API automation, and AI-assisted quality engineering.
 
-My work centers around turning complex business risks into reliable test systems, especially in payment, wallet, settlement, reconciliation, KYC, cashback, and fund-safety scenarios.
+I care about turning complex business risks into reliable test systems, especially in payment reliability, risk-based testing, state consistency, idempotency, asynchronous callbacks, reconciliation, and regression quality gates.
 
-## What I'm building
+## What I'm Building
 
-- **AI Test Harness**: converts requirements and API contracts into risk-based test cases and executable API checks.
-- **Payment Risk Test Library**: a sanitized knowledge base of payment and crypto-card testing scenarios.
-- **Quality Gate Agent**: analyzes code diffs, API changes, and risk rules to suggest regression scope.
-- **LLM / RAG Evaluation Notes**: learning notes and examples for AI application testing.
+- **AI Fintech QA Lab**: converts generic payment requirements and risk rules into test cases, quality reports, and executable API checks.
+- **Quality Gate Agent**: explores how code changes and API changes can be mapped to risk-based regression scope.
+- **LLM Eval for QA**: studies how to evaluate AI-generated test cases, QA workflows, and agent outputs.
 
 ## Areas of Interest
 
-AI Quality Engineering · QA Automation · Web3 Wallet Testing · Crypto Card Testing · Payment Risk · API Testing · CI/CD · Remote Collaboration
+AI Quality Engineering · QA Automation · Fintech Payment Testing · API Testing · Risk-based Testing · CI/CD · LLM Evaluation · Remote Collaboration
 
 ## Tech Stack
 
-Python · Pytest · Playwright · FastAPI · OpenAPI · GitHub Actions · Docker · SQL · Web3 · LLM Evals
+Python · Pytest · FastAPI · OpenAPI · SQL · GitHub Actions · Docker · Playwright · LLM Evals
 
 ## Current Focus
 
-- Building AI-assisted testing tools
-- Contributing to testing / AI evaluation open-source projects
-- Preparing for remote QA / Test Development / AI Quality Engineer roles
+- Building AI-assisted QA tools
+- Improving payment risk testing methodology
+- Practicing remote-friendly engineering workflows
+- Preparing for international / remote QA and test engineering opportunities
